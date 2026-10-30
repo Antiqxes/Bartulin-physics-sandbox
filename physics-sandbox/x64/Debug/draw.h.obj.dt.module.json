@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "physics-sandbox\\x64\\Debug\\draw.obj",
+            "outputs": [
+                "physics-sandbox\\x64\\Debug\\draw.h.obj.dt.module.json",
+                "physics-sandbox\\x64\\Debug\\draw.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
